@@ -1,7 +1,5 @@
 # PlantsVsZombies.net
 
-# PlantsVsZombies.net
-
 #### Description
 An opensource cross-platform Plants Vs Zombies remake, written in C#, originated from codes in an olde-mobile version.
 
