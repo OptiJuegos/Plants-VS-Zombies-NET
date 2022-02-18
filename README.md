@@ -12,7 +12,7 @@ The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.
 #### Installation
 
 1.  Clone into local;
-2.	Compile with VS2019;
+2.	Compile with VS2022 (or 2019);
 3.	Extract game contents (not included in this repo) into the path of the compiled executable;
 4.	Enjoy!
 
