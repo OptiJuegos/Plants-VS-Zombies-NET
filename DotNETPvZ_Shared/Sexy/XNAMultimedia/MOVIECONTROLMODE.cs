@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace Sexy
+{
+	
+	public enum MOVIECONTROLMODE
+	{
+		
+		MOVIECONTROLMODE_DEFAULT,
+		
+		MOVIECONTROLMODE_VOLUMEONLY,
+		
+		MOVIECONTROLMODE_HIDDEN
+	}
+}

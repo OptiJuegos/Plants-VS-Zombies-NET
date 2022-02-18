@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{930CA11C-207B-463B-B49F-FF3D7E8C8754}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DotNETPvZ_Shared", "DotNETPvZ_Shared\DotNETPvZ_Shared.shproj", "{7C202DAC-59D5-49B1-B761-39C42A01CDA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNETPvZ_DX_PC", "DotNETPvZ_DX_PC\DotNETPvZ_DX_PC.csproj", "{3235E3E4-0A37-48A4-AAD0-2478B019A69E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DotNETPvZ_Shared\DotNETPvZ_Shared.projitems*{3235e3e4-0a37-48a4-aad0-2478b019a69e}*SharedItemsImports = 5
+		DotNETPvZ_Shared\DotNETPvZ_Shared.projitems*{7c202dac-59d5-49b1-b761-39c42a01cda6}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3235E3E4-0A37-48A4-AAD0-2478B019A69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3235E3E4-0A37-48A4-AAD0-2478B019A69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3235E3E4-0A37-48A4-AAD0-2478B019A69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3235E3E4-0A37-48A4-AAD0-2478B019A69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCA41A4-8C1E-494B-8F10-9BEE947CECAE}
+	EndGlobalSection
+EndGlobal
